@@ -1,0 +1,18 @@
+Machine language - dey?nd?, mas?n dilind? yaz?lm?s proqram basa dusulur.Bel? kodda proqram yazmaq, sonra is? onun duzgunluyunu yoxlamaq cox c?tindir, cunki bunun ucun ya butun komandalar?n kod v? format?n? yadda saxlamaq, 
+ya da h?r d?f? xususi c?dv?ll?rd?n istifad? etm?k laz?m g?lir.
+
+Assembly
+Assembly komputer proqramlar?n?n yazilmasinda istifade olunan bir dildir.Assembly d?n istifad?nin s?b?bi odurki ilk komputerd? yazilan proqramlar?n az vaxt aparmasi ve daha az s?f olmas?d?r
+Assembly dilinin yarad?c?s? 1952-ci ild? amerikal? qad?n Qreys Hopper olub. Assembly "y?gmaq", "qurasd?rmaq" m?nas?n? verir.
+
+Cobol
+Cobol iqtisadi proqramlar?n yazilmas? ucun bir dildir. 1959-ci ild? yaran?b. Cobol-u bu isd? mut?x?ssis olmayan birid? basa dus? bil?r cunki Cobol dili ingilis dilin? cox yax?nd?r.
+
+C
+1970-ci illd? Denis Ritci v? Ken Tompson t?r?find?n UNIX ?m?liyyat sistemi ucun yarad?lm?sd?r.C proqramlasd?rma dili dig?r ?m?liyyat sisteml?rind? d?d? istifad? olunur m?s.:  Windows, Linux, Unix, FreeBSD 
+ Windows, Linux, Unix, FreeBSD ?m?liyyat sisteml?rid? C-d? yaz?l?b.  C dilinin ?n ?sas xususiyy?tl?rind?n biri ifad?l?r v? operatorlar aras?ndak? f?rqin b?rab?rr?sm?yidir  bu da onu funksional proqramlasd?rmaya yax?nlasd?r?r.
+C dilinin sintaksisi C++, JAVA, PHP  il? eynidir
+
+C Sharp
+C Sharp 1998-2001-ci ild? Microsoft kompanyas?nda Anders Helsberq in basc?l?q etdiyi bir qrup injiner terefinden yarad?l?b 
+
